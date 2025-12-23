@@ -4,7 +4,7 @@
   - HTML
   - CSS
   - JavaScript
-  - ReactJS (later)😇
+  - ReactJS
   - Angular or Vue (later)😁
 
 <img src="https://github.com/DevJesseCode/DevJesseCode/assets/81907733/074912bf-f341-49ec-a7ed-ae091201e356" width="30px" title="HTML">
